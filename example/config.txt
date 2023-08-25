@@ -1,0 +1,2 @@
+Prefix plugins/RandomizedSearchCV/example
+Plugin RandomizedSearchCV inputfile parameters.txt outputfile none
